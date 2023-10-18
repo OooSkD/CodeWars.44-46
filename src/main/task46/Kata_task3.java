@@ -10,7 +10,7 @@ DESCRIPTION:
 
     Don't forget the space after the closing parentheses!
  */
-public class Kata {
+public class Kata_task3 {
     public static String createPhoneNumber(int[] numbers) {
         return String.format("(%d%d%d) %d%d%d-%d%d%d%d",numbers[0],numbers[1],
                 numbers[2],numbers[3],
